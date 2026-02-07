@@ -3,6 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Dialog, DialogContent, DialogTrigger } from "@/components/ui/dialog";
 
 import nptelPython from "@/assets/certificates/nptel-python.jpg";
+import nasscomDataAnalytics from "@/assets/certificates/nasscom-data-analytics.jpg";
 import simplilearnPowerbi from "@/assets/certificates/simplilearn-powerbi.jpg";
 import adverkAi from "@/assets/certificates/adverk-ai.jpg";
 import miniProject from "@/assets/certificates/mini-project.jpg";
@@ -23,6 +24,12 @@ type Certification = {
 };
 
 const certifications: Certification[] = [
+  {
+    title: "Data Science And Analytics",
+    issuer: "NASSCOM (IT-ITeS Sector Skills Council)",
+    image: nasscomDataAnalytics ,
+    date: "Jan 2026",
+  },
   {
     title: "Python for Data Science",
     issuer: "NPTEL Online Certification",
