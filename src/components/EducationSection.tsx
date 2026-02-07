@@ -8,7 +8,7 @@ const education = [
     institution: "Annasaheb Chudaman Patil College of Engineering",
     location: "Navi Mumbai",
     year: "2023 – 2026",
-    grade: "CGPA: 8.68",
+    grade: "SGPA: 8.68",
     current: true,
   },
   {
