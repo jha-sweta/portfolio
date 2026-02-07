@@ -12,7 +12,7 @@ const projects = [
     title: "Pet Adoption Portal",
     description: "Developed a serverless pet adoption platform using React and Firebase. Built real-time chat with Firestore listeners, responsive UI with dynamic search and filtering, and secure image uploads via Firebase Storage.",
     techStack: ["React.js", "Firebase", "Tailwind CSS", "Firestore"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/jha-sweta/Pet-Adoption-Portal",
     liveUrl: "#",
   },
   {
