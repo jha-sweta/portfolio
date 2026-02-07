@@ -5,7 +5,7 @@ const education = [
   {
     degree: "Bachelor of Engineering",
     field: "Information Technology",
-    institution: "Annasaheb Chudaman Patil College of Engineering",
+    institution: "A.C Patil College of Engineering",
     location: "Navi Mumbai",
     year: "2023 – 2026",
     grade: "SGPA: 8.68",
