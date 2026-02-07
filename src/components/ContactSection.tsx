@@ -25,8 +25,8 @@ export const ContactSection = () => {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
-                    <a href="mailto:sweta@example.com" className="font-medium hover:text-primary">
-                      sweta@example.com
+                    <a href="mailto:swetajha.work@gmail.com" className="font-medium hover:text-primary">
+                      swetajha.work@gmail.com
                     </a>
                   </div>
                 </div>
@@ -66,7 +66,7 @@ export const ContactSection = () => {
 
               <div className="mt-8 flex justify-center gap-4">
                 <Button asChild size="lg" className="gap-2">
-                  <a href="mailto:sweta@example.com">
+                  <a href="mailto:swetajha.work@gmail.com">
                     <Mail className="h-4 w-4" />
                     Send Email
                   </a>
