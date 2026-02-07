@@ -16,7 +16,7 @@ export const HeroSection = () => {
         </div>
         
         <h1 className="mb-6 text-4xl font-bold tracking-tight md:text-6xl lg:text-7xl">
-          Hi, I'm <span className="text-primary">Sweta Kumari Jha</span>
+          Hi, I'm <span className="text-primary">Sweta Jha</span>
         </h1>
         
         <p className="mx-auto mb-4 max-w-xl text-xl text-muted-foreground md:text-2xl">
@@ -24,7 +24,7 @@ export const HeroSection = () => {
         </p>
         
         <p className="mx-auto mb-8 max-w-2xl text-muted-foreground">
-          Results-driven IT Engineering student with proven expertise in web development, Python, Java, and data analytics. 
+          Results-driven IT Engineering student with proven expertise in web development, Python, Javascript, and data analytics. 
           Strong problem-solver with excellent adaptability and a track record of delivering quality solutions.
         </p>
 
