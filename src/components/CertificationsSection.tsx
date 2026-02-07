@@ -73,12 +73,6 @@ const certifications: Certification[] = [
     image: basicPython,
     date: "2024",
   },
-  {
-    title: "MumbaiHacks 2025 Participation",
-    issuer: "Tech Entrepreneurs Association of Mumbai",
-    image: mumbaihacks,
-    date: "Nov 2025",
-  },
 ];
 
 const achievements = [
@@ -95,6 +89,12 @@ const achievements = [
     image: creativeHeadCsi,
     description: "Academic Year 2024-2025",
     date: "2024-2025",
+  },
+   {
+    title: "MumbaiHacks 2025 Participation",
+    issuer: "Tech Entrepreneurs Association of Mumbai",
+    image: mumbaihacks,
+    date: "Nov 2025",
   },
 ];
 
