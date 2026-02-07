@@ -58,7 +58,7 @@ export const HeroSection = () => {
             </a>
           </Button>
           <Button variant="ghost" size="icon" asChild className="rounded-full">
-            <a href="mailto:sweta@example.com">
+            <a href="mailto:swetajha.work@gmail.com">
               <Mail className="h-5 w-5" />
             </a>
           </Button>
